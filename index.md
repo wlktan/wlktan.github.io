@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Hello, I am Katherine
 
-You can use the [editor on GitHub](https://github.com/wlktan/wlktan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a PhD candidate at the University of Washington, Seattle [Department of Biostatistics](https://www.biostat.washington.edu/) working with [Dr. Patrick Heagerty](http://faculty.washington.edu/heagerty/) on design methods related to Electronic Medical Records (EMR) data.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Research Interests
 
-### Markdown
+### Broad Interests:
+I am interested in creative ways to analyze large-scale biomedical data drawn from heterogeneous sources.</p></br></br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Methodological/Theoretical interests:
+My methodological interests involve sampling designs that are valid and resource efficient to collect labels from large-scale, heterogeneous data such as Electronic Health Records (EHR). Labels are tags associated with unstructured datas, for example medical abstraction of clinical notes. The methods I develop borrow results from machine learning, epidemiology, and experimental designs.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wlktan/wlktan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Applied Interests Projects:
+I have worked on Phase II and pragmatic clinical trials in with collaborators in neonatology, radiology, informatics, physical medicine and health services. I recently completed a project on designing, implementing, and evaluating a Natural Language Processing system to classify radiology report text, using tools in Python, Java and R.
