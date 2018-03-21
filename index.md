@@ -5,7 +5,7 @@ I am a PhD candidate at the University of Washington, Seattle [Department of Bio
 ## Research Interests
 
 ### Broad Interests:
-I am interested in creative ways to analyze large-scale biomedical data drawn from heterogeneous sources.</p></br></br>
+I am interested in creative ways to analyze large-scale biomedical data drawn from heterogeneous sources.
 
 ### Methodological/Theoretical interests:
 My methodological interests involve sampling designs that are valid and resource efficient to collect labels from large-scale, heterogeneous data such as Electronic Health Records (EHR). Labels are tags associated with unstructured datas, for example medical abstraction of clinical notes. The methods I develop borrow results from machine learning, epidemiology, and experimental designs.
