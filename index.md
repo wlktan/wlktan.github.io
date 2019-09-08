@@ -1,5 +1,5 @@
 # Hello, I am Katherine
-I am currently serving as Quantitative Scientist at [Flatiron Health](https://flatiron.com/). I previously graduated with a PhD in Biostatistics from the[Department of Biostatistics](https://www.biostat.washington.edu/) at the University of Washington, Seattle.
+I am currently serving as Quantitative Scientist at [Flatiron Health](https://flatiron.com/). I previously graduated with a PhD in Biostatistics from the [Department of Biostatistics](https://www.biostat.washington.edu/) at the University of Washington, Seattle.
 
 ## Research Interests
 
