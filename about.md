@@ -8,8 +8,8 @@ Find me online!
 * [Webpage at UW BIOST](https://students.washington.edu/wlktan/)
 * [Profiled at UW SPH](http://sph.washington.edu/prospective/grad_bio.asp?content_ID=7996)
 
-## CV
-Download a PDF version of my [CV](cv.pdf) here.
+## Resume
+Download a PDF version of my [resume](resume.pdf) here.
 
 ## Contact
 Send me an email at wlktan [at] uw [dot] edu.
