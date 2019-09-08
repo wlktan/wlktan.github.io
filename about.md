@@ -1,5 +1,5 @@
 ## Brief Bio
-I am a PhD candidate in Biostatistics at the University of Washington, Seattle. Much of my research has been focused on statistical sampling designs to facilitate resource efficient use of Electronic Medical Records. I am also completing a Technology Entrepreneurship Certificate (TEC), taking classes along side MBAs, at the Foster School of Business.
+I am currently serving as Quantitative Scientist at Flatiron Health. I previously graduated with a PhD in Biostatistics from theDepartment of Biostatistics at the University of Washington, Seattle. I also completed a Technology Entrepreneurship Certificate (TEC), taking classes along side MBAs, at the Foster School of Business.
 
 Find me online!
 
