@@ -1,14 +1,16 @@
 # Hello, I am Katherine
-
-I am a PhD candidate at the University of Washington, Seattle [Department of Biostatistics](https://www.biostat.washington.edu/) working with [Dr. Patrick Heagerty](http://faculty.washington.edu/heagerty/) on design methods related to Electronic Medical Records (EMR) data.
+I am currently serving as Quantitative Scientist at [Flatiron Health](https://flatiron.com/). I previously graduated with a PhD in Biostatistics from the[Department of Biostatistics](https://www.biostat.washington.edu/) at the University of Washington, Seattle.
 
 ## Research Interests
 
-### Broad Interests:
-I am interested in creative ways to analyze large-scale biomedical data drawn from heterogeneous sources.
+I am extremely passionate about research methods and processes to derive value from Electronic Health Records (EHR) data. My PhD work was motivated by radiology data (unstructured text reports; International Classification of Disease codes), and my current role involves synthesizing longitudinal data sources to generate regulatory-grade real-world evidence to accelerate oncology research.
 
-### Methodological/Theoretical interests:
-My methodological interests involve sampling designs that are valid and resource efficient to collect labels from large-scale, heterogeneous data such as Electronic Health Records (EHR). Labels are tags associated with unstructured datas, for example medical abstraction of clinical notes. The methods I develop borrow results from machine learning, epidemiology, and experimental designs.
+A selection of my past projects include: 
 
-### Applied Interests Projects:
-I have worked on Phase II and pragmatic clinical trials in with collaborators in neonatology, radiology, informatics, physical medicine and health services. I recently completed a project on designing, implementing, and evaluating a Natural Language Processing system to classify radiology report text, using tools in Python, Java and R.
+- Sampling methods to inform labeled data collection for machine-learning classification from EHR data
+- Designing, implementing, and evaluating a Natural Language Processing system to identify rare and common anatomical conditions from radiology report text
+- Supporting analysis of clinical trial data in the pediatrics space
+
+## Technical and Other Interests
+
+I prioritize learning and improving on best coding practices for data scientists. Also, I enjoy data visualization (ggplot, rshiny) and good data storytelling.
